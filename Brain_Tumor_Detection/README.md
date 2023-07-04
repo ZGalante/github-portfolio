@@ -2,7 +2,7 @@
 
 ## University of California, Berkeley
 ## Master of Information and Data Science Program (MIDS)
-## w207 - Fundamentals of Data Engineering
+## w207 - Fundamentals of Machine Learning
 
 * Year: 2022
 * Semester: Fall
